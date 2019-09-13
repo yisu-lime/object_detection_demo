@@ -1,0 +1,62 @@
+<annotation>
+	<folder>close_to_road</folder>
+	<filename>JF54PE75IBAFL.jpeg</filename>
+	<path>/Users/yi.su/workspace/DS/juicer_deploy_parking/data/too_close_to_road_data/close_to_road/JF54PE75IBAFL.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>705</xmin>
+			<ymin>2172</ymin>
+			<xmax>1089</xmax>
+			<ymax>2641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1051</xmin>
+			<ymin>2049</ymin>
+			<xmax>1420</xmax>
+			<ymax>2476</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1347</xmin>
+			<ymin>1941</ymin>
+			<xmax>1601</xmax>
+			<ymax>2410</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1601</xmin>
+			<ymin>1868</ymin>
+			<xmax>1916</xmax>
+			<ymax>2310</ymax>
+		</bndbox>
+	</object>
+</annotation>

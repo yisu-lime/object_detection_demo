@@ -1,0 +1,38 @@
+<annotation>
+	<folder>close_to_road</folder>
+	<filename>TXAIP36IKZTZW.jpeg</filename>
+	<path>/Users/yi.su/workspace/DS/juicer_deploy_parking/data/too_close_to_road_data/close_to_road/TXAIP36IKZTZW.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1273</xmin>
+			<ymin>2332</ymin>
+			<xmax>1835</xmax>
+			<ymax>2775</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>716</xmin>
+			<ymin>2441</ymin>
+			<xmax>1221</xmax>
+			<ymax>2870</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>close_to_road</folder>
+	<filename>FFBYSGOTZ3ELU.jpeg</filename>
+	<path>/Users/yi.su/workspace/DS/juicer_deploy_parking/data/too_close_to_road_data/close_to_road/FFBYSGOTZ3ELU.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3036</width>
+		<height>4048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2043</xmin>
+			<ymin>2651</ymin>
+			<xmax>2583</xmax>
+			<ymax>3376</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1538</xmin>
+			<ymin>2421</ymin>
+			<xmax>1983</xmax>
+			<ymax>3326</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1158</xmin>
+			<ymin>2171</ymin>
+			<xmax>1628</xmax>
+			<ymax>2961</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>728</xmin>
+			<ymin>2076</ymin>
+			<xmax>1183</xmax>
+			<ymax>2681</ymax>
+		</bndbox>
+	</object>
+</annotation>

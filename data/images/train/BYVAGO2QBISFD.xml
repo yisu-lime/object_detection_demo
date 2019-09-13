@@ -1,0 +1,26 @@
+<annotation>
+	<folder>close_to_road</folder>
+	<filename>BYVAGO2QBISFD.jpeg</filename>
+	<path>/Users/yi.su/workspace/DS/juicer_deploy_parking/data/too_close_to_road_data/close_to_road/BYVAGO2QBISFD.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>910</xmin>
+			<ymin>3046</ymin>
+			<xmax>1870</xmax>
+			<ymax>3856</ymax>
+		</bndbox>
+	</object>
+</annotation>

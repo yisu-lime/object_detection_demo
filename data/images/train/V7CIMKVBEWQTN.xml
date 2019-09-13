@@ -1,0 +1,26 @@
+<annotation>
+	<folder>close_to_road</folder>
+	<filename>V7CIMKVBEWQTN.jpeg</filename>
+	<path>/Users/yi.su/workspace/DS/juicer_deploy_parking/data/too_close_to_road_data/close_to_road/V7CIMKVBEWQTN.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>454</width>
+		<height>605</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>too close</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>429</ymin>
+			<xmax>262</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>
