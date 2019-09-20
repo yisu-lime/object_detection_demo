@@ -1,0 +1,26 @@
+<annotation>
+	<folder>localization_photos</folder>
+	<filename>f995deec-1bd1-4c6e-be9b-060840d824ad.jpeg</filename>
+	<path>/Users/andrew.xia/Parking Detection/image_data/localization_photos/f995deec-1bd1-4c6e-be9b-060840d824ad.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>454</width>
+		<height>605</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scooter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>87</ymin>
+			<xmax>361</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>
