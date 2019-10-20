@@ -1,26 +1,26 @@
 <annotation>
-	<folder>scooter_bounding_box</folder>
-	<filename>0dacd72f-5e8d-43e9-9f46-8cf8ce0103f6.jpeg</filename>
-	<path>/Users/yi.su/workspace/DS/intelligent_parking/image_data/test_set/0dacd72f-5e8d-43e9-9f46-8cf8ce0103f6.jpeg</path>
-	<source>
-		<database>Unknown</database>
-	</source>
-	<size>
-		<width>454</width>
-		<height>605</height>
-		<depth>3</depth>
-	</size>
-	<segmented>0</segmented>
-    <object>
-		<name>scooter</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>164</xmin>
-			<ymin>175</ymin>
-			<xmax>481</xmax>
-			<ymax>298</ymax>
-        </bndbox>
-    </object>
+ <folder>test_set</folder>
+ <filename>0dacd72f-5e8d-43e9-9f46-8cf8ce0103f6.jpeg</filename>
+ <path>/Users/yi.su/workspace/DS/intelligent_parking/image_data/test_set/0dacd72f-5e8d-43e9-9f46-8cf8ce0103f6.jpeg</path>
+ <source>
+  <database>Unknown</database>
+ </source>
+ <size>
+  <width>454</width>
+  <height>605</height>
+  <depth>3</depth>
+</size>
+<segmented>0</segmented>
+ <object>
+  <name>scooter</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>175</xmin>
+   <ymin>164</ymin>
+   <xmax>298</xmax>
+   <ymax>481</ymax>
+  </bndbox>
+ </object>
 </annotation>
