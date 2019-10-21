@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scooter_bounding_box</folder>
+	<filename>00daefcb-d1c1-4204-bae7-8a2209168e89.jpeg</filename>
+	<path>/Users/yi.su/workspace/DS/intelligent_parking/image_data/scooter_bounding_box/00daefcb-d1c1-4204-bae7-8a2209168e89.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3036</width>
+		<height>4048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scooter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>938</xmin>
+			<ymin>656</ymin>
+			<xmax>1923</xmax>
+			<ymax>3126</ymax>
+		</bndbox>
+	</object>
+</annotation>
