@@ -1,0 +1,26 @@
+<annotation>
+ <folder>test_set</folder>
+ <filename>eb9dc3d7-5b27-4c3d-8334-27583d43d42e.jpeg</filename>
+ <path>/Users/yi.su/workspace/DS/intelligent_parking/image_data/test_set/eb9dc3d7-5b27-4c3d-8334-27583d43d42e.jpeg</path>
+ <source>
+  <database>Unknown</database>
+ </source>
+ <size>
+  <width>454</width>
+  <height>605</height>
+  <depth>3</depth>
+</size>
+<segmented>0</segmented>
+ <object>
+  <name>scooter</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>187</xmin>
+   <ymin>132</ymin>
+   <xmax>370</xmax>
+   <ymax>511</ymax>
+  </bndbox>
+ </object>
+</annotation>
